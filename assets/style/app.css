@@ -1,0 +1,130 @@
+.Line-4 {
+    width: 186px;
+    height: 2px;
+    background-color: #e03116;
+  }
+.title{
+  width: 428px;
+  height: 214px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.29px;
+  text-align: left;
+  color: #1f2c40;
+}
+ .container{
+    display: flex;
+    width: 50%;
+    height: 50%;
+    margin-top: 50px;
+ }
+ .main-title{
+    margin-right: 87px;
+    max-width: 428px;
+    margin-left: 50px;
+    max-height: 225px;
+ }
+ .row-padding{
+    display: flex;
+    flex-direction: column;
+    margin-left: 87px;
+ }
+.rowfist{
+    display: flex;
+    height: 327.8px;
+    width: 779.5px;
+ }
+ .rowsecond{
+    display: flex;
+    height: 310px;
+    width: 779.5px;
+ }
+ .info{
+    margin-right: 88px;
+ }
+ .infofourth{
+  margin-left: 88px;
+}
+.title-padding{
+  width: 273px;
+  margin: 0 0 7px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -0.19px;
+  text-align: left;
+  color: #1f2c40;
+}
+.content-1{
+  display: flex;
+  width: 273px;
+  height: 294.8px;
+  margin: 7px 0 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.14px;
+  text-align: left;
+  color: var(--brownish-grey);
+}
+.content-2{
+  display: flex;
+  width: 273px;
+  height: 245px;
+  margin: 7px 0 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.14px;
+  text-align: left;
+  color: var(--brownish-grey);
+}
+.content-3{
+  display: flex;
+  width: 273px;
+  height: 248px;
+  margin: 7px 0 0;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.14px;
+  text-align: left;
+  color: var(--brownish-grey);
+}
+.content-4{
+  display: flex;
+  width: 271px;
+  height: 249px;
+  margin: 7px 0 0 2px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: -0.14px;
+  text-align: left;
+  color: var(--brownish-grey);
+
+}
+@media (min-width: 600px) {
+  .column {
+      width: 50%;
+  }
+}
